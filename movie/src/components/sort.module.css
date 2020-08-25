@@ -1,0 +1,13 @@
+.root {
+   background: white;
+  width: 200px;
+  height:  25px;
+}
+.text{
+    margin-left: 50px;
+}
+.hrGradient {
+margin-top:50px;
+  background: linear-gradient(to right, #373b44, #4286f4);
+  height: 5px;
+}

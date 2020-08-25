@@ -1,0 +1,36 @@
+.root {
+    display: inline-block;  
+    
+    height: auto;
+    margin-left: 50px;
+    margin-top: 20px;
+    max-width: 300px;
+   
+    }
+   
+    .title{
+      display: inline-block;
+      height: auto;
+    }
+    .pos{
+      margin-bottom:12
+    
+    }
+      .justify{
+        text-justify: auto;
+      }
+      .media {
+        height: 450px;
+        width: 300px;
+        padding-top:  '56.25%';
+        margin-top: 30;
+        
+      }
+    .text{
+      height: 200px;
+     
+    }
+  .cardHeight{
+    padding-top:  '56.25%';
+    min-height: 450px;
+  }

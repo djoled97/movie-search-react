@@ -1,0 +1,20 @@
+
+
+
+
+
+.cardWidth{
+  max-width: 300px;
+}
+
+.size {
+  width:500px
+}
+
+.bg{
+  background: linear-gradient(to right, #232526, #414345); 
+}
+.linear{
+ min-height: 15px;
+ margin-top:100px;
+}
